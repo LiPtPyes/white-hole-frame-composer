@@ -1,0 +1,15 @@
+target/
+*.class
+*.log
+
+.idea/
+.vscode/
+*.iml
+
+result.jpg
+result.jpeg
+result.png
+*.tmp
+
+.DS_Store
+Thumbs.db
